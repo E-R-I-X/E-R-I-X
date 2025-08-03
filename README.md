@@ -13,11 +13,11 @@
 
 <div align="center" style="background:#0a0a15; border-radius:8px; box-shadow:0 0 16px #00ffff;">
   
-  <h2 style="font-family:'Orbitron', 'Share Tech Mono', monospace; color:#00FFFF;">🧠 About</h2>
+  <h2 style="font-family:'Orbitron', 'Share Tech Mono', monospace; color:#00FFFF;">About</h2>
   
   <table>
     <tr>
-      <td><b>💻 Tech Stack</b></td>
+      <td><b>Tech Stack</b></td>
       <td>
         <img src="https://img.shields.io/badge/HTML5-0a0a15?style=for-the-badge&logo=html5&logoColor=00ffff"/>
         <img src="https://img.shields.io/badge/CSS3-0a0a15?style=for-the-badge&logo=css3&logoColor=00ffff"/>
@@ -27,19 +27,19 @@
       </td>
     </tr>
     <tr>
-      <td><b>📫 Email</b></td>
+      <td><b>Email</b></td>
       <td>
         <a href="mailto:olugbemide.eri@gmail.com" style="color:#00ffff;">olugbemide.eri@gmail.com</a>
       </td>
     </tr>
     <tr>
-      <td><b>🐙 GitHub</b></td>
+      <td><b>GitHub</b></td>
       <td>
         <a href="https://github.com/E-R-I-X" style="color:#00ffff;">github.com/E-R-I-X</a>
       </td>
     </tr>
     <tr>
-      <td><b>🌐 Portfolio</b></td>
+      <td><b>Portfolio</b></td>
       <td>
         <span style="color:#67e8f9;">Coming soon...</span>
       </td>
@@ -51,14 +51,14 @@
 <br/>
 
 <div align="center" style="background:#0a0a15; border-radius:8px; box-shadow:0 0 16px #00ffff;">
-  <h2 style="font-family:'Orbitron', 'Share Tech Mono', monospace; color:#00FFFF;">📁 Projects</h2>
+  <h2 style="font-family:'Orbitron', 'Share Tech Mono', monospace; color:#00FFFF;">Projects</h2>
   <p style="color:#67e8f9;">Coming soon...</p>
 </div>
 
 <br/>
 
 <div align="center" style="background:#0a0a15; border-radius:8px; box-shadow:0 0 16px #00ffff;">
-  <h2 style="font-family:'Orbitron', 'Share Tech Mono', monospace; color:#00FFFF;">📊 GitHub Stats</h2>
+  <h2 style="font-family:'Orbitron', 'Share Tech Mono', monospace; color:#00FFFF;">GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=E-R-I-X&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=67e8f9&bg_color=0a0a15"/>
 </div>
 
